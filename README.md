@@ -3,7 +3,7 @@ Theme for Anax-MVC
 
 
 
-By Robin Hansson, robn@rarths.com
+By Robin Hansson, robin@rarths.com
 
 
 
