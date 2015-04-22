@@ -1,0 +1,17 @@
+@red: #f15e58;
+@green: #8eeb8e;
+@blue: #72d6e8;
+@dark: #494949;
+
+/*--- SEMANTIC VARIABLES ---*/
+
+// Defaults which you can freely override
+@column-width: 60;
+@gutter-width: 0;
+@columns: 12;
+
+// Utility variable — you should never need to modify this
+@gridsystem-width: (@column-width*@columns) + (@gutter-width*@columns) * 1px;
+
+// Set @total-width to 100% for a fluid layout
+@total-width: 100%
